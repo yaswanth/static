@@ -1,5 +1,5 @@
 
-**NO-HDA privacy policy
+NO-HDA privacy policy
 
 NO-HDA is a Google Chrome extension to displays HDA data in Tables...
 
